@@ -1,8 +1,8 @@
-Spring 3 MVC - DynamicJasper Integration Tutorial
+Spring 3 MVC - Jasper Integration Tutorial
 
-= Spring 3 MVC - DynamicJasper Integration Tutorial =
+= Spring 3 MVC - Jasper Integration Tutorial =
 
-An integration tutorial for Spring 3 MVC and DynamicJasper.
+An integration tutorial for Spring 3 MVC and Jasper.
 
 
 = References =
